@@ -1,0 +1,12 @@
+langchain
+openai
+tiktoken
+faiss-cpu
+langchain-community
+langchain_experimental
+langchain[docarray]
+langchain-openai
+pypdf
+
+# it will find all local packages and install global + local packages
+-e .

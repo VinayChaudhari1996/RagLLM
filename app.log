@@ -1,0 +1,14 @@
+INFO:root:OPENAI_API_KEY has been set!
+INFO:root:Loaded and split PDF: data\sample_input_data.pdf
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Successfully loaded faiss with AVX2 support.
+INFO:root:Vectorstore created successfully
+INFO:root:Conversational chain created successfully
+INFO:root:OPENAI_API_KEY has been set!
+INFO:root:Loaded and split PDF: data\sample_input_data.pdf
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Successfully loaded faiss with AVX2 support.
+INFO:root:Vectorstore created successfully
+INFO:root:Conversational chain created successfully

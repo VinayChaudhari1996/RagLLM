@@ -1,0 +1,9 @@
+langchain
+openai
+tiktoken
+faiss-cpu
+langchain_experimental
+langchain[docarray]
+langchain-openai
+pypdf
+langchain_experimental

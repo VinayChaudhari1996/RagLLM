@@ -255,5 +255,4 @@ MIT
 - Slack platform team
 
 ## 📞 Support
-For issues or questions:
-- GitHub Issues
+For issues or questions: crate Github issues.
